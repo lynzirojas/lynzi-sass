@@ -3,20 +3,16 @@ html, body {
     font-family: Arial;
     color: $secondary-color;
 }
-
 p, a {
     font-size: 1rem;
 }
-
 img {
     height: 350px;
     width: 550px;
 }
-
 ul {
     list-style: circle;
 }
-
 .container {
     min-height: 100%;
     display: flex;
