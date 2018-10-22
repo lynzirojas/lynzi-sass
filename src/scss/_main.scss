@@ -6,6 +6,9 @@
     > * {
       padding-left: 30px;
 }
+  ul, li {
+    list-style-position: inside;
+}
   li {
     font-size: 1rem;
 }

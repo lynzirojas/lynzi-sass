@@ -24,6 +24,8 @@ ul {
   background-color: #544172; }
   .main > * {
     padding-left: 30px; }
+  .main ul, .main li {
+    list-style-position: inside; }
   .main li {
     font-size: 1rem; }
   .main ul {
